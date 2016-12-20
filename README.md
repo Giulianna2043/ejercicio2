@@ -1,4 +1,4 @@
-# ejercicio1
+# ejercicio2
 
 Inicio: promedio
 
