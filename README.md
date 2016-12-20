@@ -1,19 +1,19 @@
-# ejercicio2
+# Ejercicio2
 
 Inicio: promedio
 
 ## Ingreso datos
--numero 1
--numero 2
--numero 3
-resultado
+- Numero 1
+- Numero 2
+- Numero 3
+- Resultado
 
 ## Proceso
 
-pedir numero 1
-pedir numero 2
-Sumar numero 1 con numero 2 y numero 3 y almacenar en resultado
-promedio=resultado/3
-Mostrar promedio
+- Pedir numero 1
+- Pedir numero 2
+- Sumar numero 1 con numero 2 y numero 3 y almacenar en resultado
+- Promedio=resultado/3
+- Mostrar promedio
 
 # Fin #
